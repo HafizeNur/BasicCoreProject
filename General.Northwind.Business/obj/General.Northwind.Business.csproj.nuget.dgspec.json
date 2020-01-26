@@ -1,0 +1,261 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\MYPROJECT\\NETCORE\\CoreProject\\CoreProject\\General.Northwind.Business\\General.Northwind.Business.csproj": {}
+  },
+  "projects": {
+    "C:\\MYPROJECT\\NETCORE\\CoreProject\\CoreProject\\General.Core\\General.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MYPROJECT\\NETCORE\\CoreProject\\CoreProject\\General.Core\\General.Core.csproj",
+        "projectName": "General.Core",
+        "projectPath": "C:\\MYPROJECT\\NETCORE\\CoreProject\\CoreProject\\General.Core\\General.Core.csproj",
+        "packagesPath": "C:\\Users\\Hafize\\.nuget\\packages\\",
+        "outputPath": "C:\\MYPROJECT\\NETCORE\\CoreProject\\CoreProject\\General.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Hafize\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\MYPROJECT\\NETCORE\\CoreProject\\CoreProject\\General.Northwind.Business\\General.Northwind.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MYPROJECT\\NETCORE\\CoreProject\\CoreProject\\General.Northwind.Business\\General.Northwind.Business.csproj",
+        "projectName": "General.Northwind.Business",
+        "projectPath": "C:\\MYPROJECT\\NETCORE\\CoreProject\\CoreProject\\General.Northwind.Business\\General.Northwind.Business.csproj",
+        "packagesPath": "C:\\Users\\Hafize\\.nuget\\packages\\",
+        "outputPath": "C:\\MYPROJECT\\NETCORE\\CoreProject\\CoreProject\\General.Northwind.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Hafize\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\MYPROJECT\\NETCORE\\CoreProject\\CoreProject\\General.Core\\General.Core.csproj": {
+                "projectPath": "C:\\MYPROJECT\\NETCORE\\CoreProject\\CoreProject\\General.Core\\General.Core.csproj"
+              },
+              "C:\\MYPROJECT\\NETCORE\\CoreProject\\CoreProject\\General.Northwind.DataAccess\\General.Northwind.DataAccess.csproj": {
+                "projectPath": "C:\\MYPROJECT\\NETCORE\\CoreProject\\CoreProject\\General.Northwind.DataAccess\\General.Northwind.DataAccess.csproj"
+              },
+              "C:\\MYPROJECT\\NETCORE\\CoreProject\\CoreProject\\General.Northwind.Entities\\General.Northwind.Entities.csproj": {
+                "projectPath": "C:\\MYPROJECT\\NETCORE\\CoreProject\\CoreProject\\General.Northwind.Entities\\General.Northwind.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\MYPROJECT\\NETCORE\\CoreProject\\CoreProject\\General.Northwind.DataAccess\\General.Northwind.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MYPROJECT\\NETCORE\\CoreProject\\CoreProject\\General.Northwind.DataAccess\\General.Northwind.DataAccess.csproj",
+        "projectName": "General.Northwind.DataAccess",
+        "projectPath": "C:\\MYPROJECT\\NETCORE\\CoreProject\\CoreProject\\General.Northwind.DataAccess\\General.Northwind.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Hafize\\.nuget\\packages\\",
+        "outputPath": "C:\\MYPROJECT\\NETCORE\\CoreProject\\CoreProject\\General.Northwind.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Hafize\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\MYPROJECT\\NETCORE\\CoreProject\\CoreProject\\General.Core\\General.Core.csproj": {
+                "projectPath": "C:\\MYPROJECT\\NETCORE\\CoreProject\\CoreProject\\General.Core\\General.Core.csproj"
+              },
+              "C:\\MYPROJECT\\NETCORE\\CoreProject\\CoreProject\\General.Northwind.Entities\\General.Northwind.Entities.csproj": {
+                "projectPath": "C:\\MYPROJECT\\NETCORE\\CoreProject\\CoreProject\\General.Northwind.Entities\\General.Northwind.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\MYPROJECT\\NETCORE\\CoreProject\\CoreProject\\General.Northwind.Entities\\General.Northwind.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MYPROJECT\\NETCORE\\CoreProject\\CoreProject\\General.Northwind.Entities\\General.Northwind.Entities.csproj",
+        "projectName": "General.Northwind.Entities",
+        "projectPath": "C:\\MYPROJECT\\NETCORE\\CoreProject\\CoreProject\\General.Northwind.Entities\\General.Northwind.Entities.csproj",
+        "packagesPath": "C:\\Users\\Hafize\\.nuget\\packages\\",
+        "outputPath": "C:\\MYPROJECT\\NETCORE\\CoreProject\\CoreProject\\General.Northwind.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Hafize\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\MYPROJECT\\NETCORE\\CoreProject\\CoreProject\\General.Core\\General.Core.csproj": {
+                "projectPath": "C:\\MYPROJECT\\NETCORE\\CoreProject\\CoreProject\\General.Core\\General.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

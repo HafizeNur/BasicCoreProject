@@ -1,0 +1,5 @@
+C:\Users\pgcomp1\source\repos\CoreProject\General.Core\bin\Debug\netcoreapp3.0\General.Core.deps.json
+C:\Users\pgcomp1\source\repos\CoreProject\General.Core\bin\Debug\netcoreapp3.0\General.Core.dll
+C:\Users\pgcomp1\source\repos\CoreProject\General.Core\obj\Debug\netcoreapp3.0\General.Core.csprojAssemblyReference.cache
+C:\Users\pgcomp1\source\repos\CoreProject\General.Core\obj\Debug\netcoreapp3.0\General.Core.AssemblyInfoInputs.cache
+C:\Users\pgcomp1\source\repos\CoreProject\General.Core\obj\Debug\netcoreapp3.0\General.Core.AssemblyInfo.cs
